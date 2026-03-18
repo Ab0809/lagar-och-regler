@@ -1,0 +1,84 @@
+body {
+    background-color: rgba(204, 204, 204, 0.881);
+}
+header {
+    background-color: rgb(161, 91, 176);
+    color: white;            
+    border-radius: 20px;
+    max-width: 800px;
+    margin: 20px auto;       
+    padding: 15px;
+    font-size: 25px;
+    text-align: center;
+    border: 2px solid #000;  
+}
+.stycke2 {
+    background-color: rgb(161, 91, 176);
+    color: white;            
+    border-radius: 20px;
+    max-width: 700px;
+    margin: 20px auto;       
+    padding: 15px;
+    font-size: 18px;
+    text-align: center;
+    border: 2px solid #000; 
+  
+}
+.stycke2 a {
+    text-decoration: none;
+    color: white;
+}
+.stycke1 {
+    background-color: rgb(161, 91, 176);
+    color: white;             
+    border-radius: 20px;
+    max-width: 700px;
+    margin:  auto;        
+    padding: 15px;
+    font-size: 18px;
+    text-align: center;
+    border: 2px solid #000;  
+}
+.stycke1, a {
+    text-decoration: none;
+    color: white;
+}
+.styckeTest{
+    border-radius: 20px;
+    border-style: solid;
+    border-color: black;
+    padding: 5px;
+    max-width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.stycketest2{
+    border-radius: 20px;
+    border-style: solid;
+    border-color: black;
+    padding: 5px;
+    max-width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid #000;  
+}
+.stycke3{
+    border-radius: 20px;
+    border-style: solid;
+    border-color: black;
+    padding: 5px;
+    max-width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid #000;  
+}
+.stycketest3{
+    border-radius: 20px;
+    border-style: solid;
+    border-color: black;
+    padding: 5px;
+    max-width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid #000;  
+}
